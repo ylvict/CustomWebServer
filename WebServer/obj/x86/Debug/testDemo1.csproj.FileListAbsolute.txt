@@ -1,0 +1,7 @@
+c:\users\v-hoverz\documents\visual studio 2010\Projects\testDemo1\bin\Debug\testDemo1.exe
+c:\users\v-hoverz\documents\visual studio 2010\Projects\testDemo1\bin\Debug\testDemo1.pdb
+c:\users\v-hoverz\documents\visual studio 2010\Projects\testDemo1\obj\x86\Debug\testDemo1.exe
+c:\users\v-hoverz\documents\visual studio 2010\Projects\testDemo1\obj\x86\Debug\testDemo1.pdb
+c:\users\v-hoverz\documents\visual studio 2010\Projects\testDemo1\obj\x86\Debug\testDemo1.csprojResolveAssemblyReference.cache
+c:\users\v-hoverz\documents\visual studio 2010\Projects\testDemo1\bin\Debug\Tools.dll
+c:\users\v-hoverz\documents\visual studio 2010\Projects\testDemo1\bin\Debug\Tools.pdb
